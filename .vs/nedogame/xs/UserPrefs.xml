@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7B284DE6-E314-2CF3-7C32-4B359C49A51F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CircleController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WhitePlatformController.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/CircleController.cs" Line="1" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nedogame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CircleController.cs" selected="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e8b6a02b-59df-49dc-99b7-6d76f49b4656" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
